@@ -9,7 +9,7 @@ const Home = () => {
     <>
       <Search />
       <InitialMessage />
-      <MovieList />
+      <MovieList/>
       <Pagination />
     </>
     
